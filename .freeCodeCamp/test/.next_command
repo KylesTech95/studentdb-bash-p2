@@ -75,3 +75,4 @@ psql --help
 touch student_info.sh
 ls --color=auto -l
 chmod +x student_info.sh
+which bash
