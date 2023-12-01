@@ -76,3 +76,9 @@ touch student_info.sh
 ls --color=auto -l
 chmod +x student_info.sh
 which bash
+run="./student_info.sh"
+run
+$run
+$run
+./studnet_info.sh
+./student_info.sh
