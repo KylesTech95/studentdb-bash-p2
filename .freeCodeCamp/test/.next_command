@@ -116,3 +116,8 @@ psql --username=freecodecamp --dbname=postgres
 ./student_info.sh
 psql --username=freecodecamp --dbname=postgres
 ./student_info.sh
+git init
+git remote -v
+git remote add origin https://github.com/kylesTech95/studentdb-bash-p2.git
+git branch -M main
+git add .
